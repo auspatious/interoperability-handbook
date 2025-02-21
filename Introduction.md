@@ -25,12 +25,12 @@ for overall coordination and development.
 
 This handbook will facilitate data providers to enable interoperability of data and services for exchange of EO data among different organizations,
 agencies, and countries by standardizing terminology, structure, formats, metadata, quality and policy. This handbook will help to avoid duplication of efforts,
-reduce costs, and improve the quality and quantity of EO data available for decision-making.
+reduce costs, and improve the interoperability of EO data and services available for decision-making.
 
 Interoperability also supports the integration of global EO data with other data sources, such as geo-statistics, model data, and forecasts. By combining these
 sources, users can gain a more comprehensive understanding of various phenomena, such as natural disasters, land use, and climate change at global level.
 
-Furthermore, adaptation of interoperability recommendations will facilitate data sharing among the scientific community, governments, international
+Furthermore, adaptation of interoperability recommendations as discussed in this handbook will facilitate data sharing among the scientific community, governments, international
 organizations and other stakeholders. It can assist in creating a common understanding among users with different backgrounds, interests, and needs. Finally,
 interoperability goes beyond data sharing, as it can foster collaboration and innovation by enabling the development of new applications, tools, and services
 that leverage EO data. Such advances are critical for addressing emerging challenges, such as the impacts of climate change, natural disasters, and food security.
