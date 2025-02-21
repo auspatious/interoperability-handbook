@@ -18,7 +18,7 @@ to complex user requirements, a need was felt to re-look on the interoperability
 the **CEOS Interoperability Handbook 2.0** was proposed.
 
 The **CEOS Interoperability Framework** is developed to guide the development of this handbook for EO data services. Different entities within
-CEOS contributed towards development of this Handbook with CEOS **Working Group on Information Systems and Services (WGISS)** as a lead
+CEOS contributed towards development of this Handbook with CEOS [**Working Group on Information Systems and Services (WGISS)**](https://ceos.org/ourwork/workinggroups/wgiss/) as a lead
 for overall coordination and development.
 
 ## Purpose
