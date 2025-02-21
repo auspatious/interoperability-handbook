@@ -17,7 +17,7 @@ With the increase in number of EO satellites and associated complex sensors prov
 to complex user requirements, a need was felt to re-look on the interoperability of data services in the current context and development of
 the **CEOS Interoperability Handbook 2.0** was proposed.
 
-The **CEOS Interoperability Framework** was developed to guide the development of CEOS Interoperability Handbook for EO data services. Different entities within
+The **CEOS Interoperability Framework** was developed to guide the development of CEOS Interoperability Handbook 2.0 for EO data services. Different entities within
 CEOS contributed towards development of this Handbook with CEOS **Working Group on Information Systems and Services (WGISS)** as a lead
 for overall coordination and development.
 
