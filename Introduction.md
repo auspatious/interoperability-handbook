@@ -12,8 +12,8 @@ organizations’ EO needs and requirements.
 
 Interoperability of data and services in the EO domain is essential due to the importance of EO data in a wide range of applications, including agriculture,
 climate change monitoring, disaster management, and urban planning, as well as the increasing cooperation of public and commercial space actors worldwide. In
-order to streamline such collaborative efforts a need for Interoperability for data and services was strongly felt and **CEOS Interoperability Handbook 1.1**
-was developed in the year 2008. With the increase in number of EO satellites and associated complex sensors providing ever growing volumes of data catering
+order to streamline such collaborative efforts a need for Interoperability for data and services was strongly felt and [**CEOS Interoperability Handbook 1.1**](https://ceos.org/document_management/Working_Groups/WGISS/Documents/WGISS_CEOS-Interoperability-Handbook_Feb2008.pdf) was developed in the year 2008. 
+With the increase in number of EO satellites and associated complex sensors providing ever growing volumes of data catering
 to complex user requirements, a need was felt to re-look on the interoperability of data services in the current context and development of
 the **CEOS Interoperability Handbook 2.0** was proposed.
 
