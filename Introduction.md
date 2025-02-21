@@ -23,7 +23,7 @@ for overall coordination and development.
 
 ## Purpose
 
-The interoperability handbook will facilitate development of interoperability of data and services for exchange of EO data among different organizations,
+This handbook will facilitate data providers to enable interoperability of data and services for exchange of EO data among different organizations,
 agencies, and countries by standardizing terminology, structure, formats, metadata, quality and policy. This handbook will help to avoid duplication of efforts,
 reduce costs, and improve the quality and quantity of EO data available for decision-making.
 
