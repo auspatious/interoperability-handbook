@@ -24,8 +24,8 @@ for overall coordination and development.
 ## Purpose
 
 This handbook will facilitate data providers to enable interoperability of data and services for exchange of EO data among different organizations,
-agencies, and countries by standardizing terminology, structure, formats, metadata, quality and policy. This handbook will help to avoid duplication of efforts,
-reduce costs, and improve the interoperability of EO data and services available for decision-making.
+agencies, and countries by proposing standards and best practices in terminology, structure, formats, metadata, quality and policy. This handbook will help to avoid duplication of efforts,
+reduce costs, and improve the interoperability of EO data and services.
 
 Interoperability also supports the integration of global EO data with other data sources, such as geo-statistics, model data, and forecasts. By combining these
 sources, users can gain a more comprehensive understanding of various phenomena, such as natural disasters, land use, and climate change at global level.
