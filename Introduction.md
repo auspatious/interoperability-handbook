@@ -43,7 +43,7 @@ in **measuring their maturity level**.
 ## Audience
 
 This Handbook is intended to be used as a guide by different **Space Agencies, New Space Startups** and **Commercial Data and Service Providers** to improve
-interoperability of their data and services.
+interoperability of data and services.
 
 ***
 [Previous](README.md) | [Table of contents](README.md) | [Next](Framework.md)
