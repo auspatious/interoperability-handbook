@@ -17,6 +17,7 @@ Policy is one of the most important factors and forms the basis of interoperabil
 | **POL\#6** | **Open Science:** Promote the concept of open science for collaborative development. Open science ensures availability of the state-of-the-art algorithms and software providing consistent products from different data providers and supporting reproducibility. |
 | **POL\#7** | **CEOS Best Practices:** Ensure your organization complies with the CEOS Best Practices to pursue and facilitate Interoperability.  |
 | **POL\#8** | **Data Licensing:** Organizations sharing open and unrestricted data should license the data using one of the following data license a) Creative Commons Zero 1.0 Universal Public Domain Dedication (CCo) b) Open Data Commons Public Domain Dedication and License (PDDL) v1.0 c) Creative Commons Attribution 4.0 International (CC BY 4.0). The Custom license agreement should not be used, and these standard licenses should not be modified or augmented with additional text as per [GEO data licensing Guidance](<https://gkhub.earthobservations.org/packages/p0zg8-02b56>)|
+| **POL\#9** | **Data Procurement from third party:** Organizations planning to procure/outsource Earth Observation data, to possible extent should ensure that the data being procured are CEOS-ARD compliant|
 
 ***
 [Previous](Quality.md) | [Table of contents](README.md) | [Next](README.md)
