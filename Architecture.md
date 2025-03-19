@@ -62,8 +62,8 @@ and other ancillary documents that help describe the granule. It also covers col
 | **METADATA#02** | A Collection of data should have all granules packaged consistently and produced with consistent quality.                             |
 | **METADATA#03** | Collection-specific metadata formats may be used, but packaging must include STAC documents at the Collection and Granule/Item level  |
 | **METADATA#04** | Hashes for all files in a packaged granule should be available, so that integrity checks can be run                                   |
-| **METADATA#04** | Pixel-level metadata such as scene quality masks should be clearly documented with a reference to lookup tables                       |
-| **METADATA#05** | File names and folder or path structures should be consistent and include appropriate information to distinguish the specific granule |
+| **METADATA#05** | Pixel-level metadata such as scene quality masks should be clearly documented with a reference to lookup tables                       |
+| **METADATA#06** | File names and folder or path structures should be consistent and include appropriate information to distinguish the specific granule |
 
 ## Cloud Architecture
 
