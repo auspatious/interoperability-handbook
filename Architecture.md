@@ -13,7 +13,8 @@ Following Architecture has impact on Interoperability:
 2) Metadata Architecture
 3) Cloud Architecture
 4) Publishing Architecture
-5) Data Analytics Architecture
+5) Technologies
+6) Data Analytics Architecture
 
 ## Data Architecture
 
@@ -86,7 +87,22 @@ are aimed at facilitating both access to data as well as maintaining a replica o
 | **PUBLISH\#1** | Granules should be available immediately and not through an on-demand service                                                                                                                                                           |
 | **PUBLISH\#2** | Each data collection that is published as a publicly-accessible product should include a public granule-level notification including for when it is added, updated or deleted/archived. This should be able to be filtered by location. |
 | **PUBLISH\#3** | A collection should have a full listing of all available granules in a standard format, preferably cloud optimized. [STAC-geoparquet](https://stac-utils.github.io/stac-geoparquet/latest/) is used by some providers currently         |
-| **PUBLISH\#4** | Data licensing should be clear and adhere to national policies, with a strong preference for standard open licenses such as Creative Commons                                                                                            |
+| **PUBLISH\#4** | Data licensing should be clear and adhere to national policies, with a strong preference for standard open licenses such as Creative Commons |         
+
+## Technologies
+
+A range of specific technologies including software applications and service specifications are currently in wide use and can be used to
+access collections of data that are published using them. The list below includes examples of these technologies.
+
+| **ID**      | **Recommendations**                                                                                                                                                                |
+| :---------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **TECH\#1** | The CEOS supported [Open Data Cube](https://opendatacube.org) can be taken as a reference Datacube implementation                                                                  |
+| **TECH\#1** | Collection and Granule metadata should be accessible in a REST API that implements the OGC API for Features, such as the [STAC API](https://github.com/radiantearth/stac-api-spec) |
+| **TECH\#2** | Datacubes can be created on the fly using client applications working against a REST API, for example, using [odc-stac](https://github.com/opendatacube/odc-stac)                  |
+| **TECH\#4** | [OGC APIs](https://ogcapi.ogc.org/) should be used to publish web services for visualisation and data access                                                                       |
+
+Requirement of Analytics Architecture is to be discussed
+
 ## Analytics Architecture
 
 Data Analytics architecture in an organization provides capability to store, analyze and visualize the data. As a typical Earth Observation data analytics require a large volume of time series data and hence
