@@ -8,7 +8,6 @@ Semantics deal with general aspects of meaning and relationships between terms a
 
 This section highlights the essential role of semantics and vocabularies in the CEOS Interoperability Framework. It outlines key standards, best practices for implementing semantic interoperability, and methods for aligning domain-specific vocabularies. By establishing a shared semantic foundation, stakeholders can improve data exchange, integration, service compatibility, and automated reasoning, ensuring more effective collaboration in an increasingly interconnected digital geospatial ecosystem.
 
-Of central importance for increasing the interoperability within CEOS and across the entire geospatial domain, will be a more harmonised and structured terminology. Providers and users of EO data and services will largely benefit if the definition and interpretation of terms is no longer re-negotiated and amended each time projects are started, or new documents are drafted. A key finding of the terminology task force was that vocabularies should be developed as much as possible in an open and participatory way across the whole domain they are intended for.
 
 | **ID** | **Semantic Recommendations**                                                                                                       |
 | :----- | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,20 +18,7 @@ Of central importance for increasing the interoperability within CEOS and across
 | **SEM\#5** | Seek formal collaboration with ISO/TC 211 (who may perhaps be asked to lead), OGC, the WMO task team on WIGOS metadata and any other stakeholder in Earth System Sciences interested to join and strive for domain wide adoption of a common thesaurus |
 | **SEM\#6** | Set-up common online repositories for abbreviations and acronyms as well as e.g. agreed metadata fields with unified and binding lists of options. |
 
-One of the main lessons learned by the CEOS terminology task force was that usability and acceptance of unified vocabularies will largely depend on consistent and comprehensive principles shared by all stakeholders and guiding their development. An initial set of such principles and main elements enabling them was presented by Strobl, 2024 and is repeated here below.
-
-Consistent: based on a firm foundation of clear base terms. Ambiguity and interpretability would be avoided or made explicit. This objective can be achieved by basing definitions on a single set of preferred terms which are unambiguously and natively defined, and to which additional terms are referenced (ISO 25964-1 clause 15.2.3 acknowledges this aspect).
-
-Interrelated: with more complex terms building on base terms and establishing clear relationships between terms (parent, sibling, child) avoiding, in particular, circular (child becomes parent) relations. Overlaps between terms that are supposed to delineate more generic concepts (siblings) would be avoided or minimised by clearly defining criteria of differentiation/disambiguation. This concept is described in ISO 25964-1 clause 10.2.
-
-Understandable: with definitions being made centrally and agreed by all collaborating communities (or through differentiation/disambiguation), the thesaurus will improve the understandability of terminology in interdisciplinary teams. ISO 25964-2 clause 5.1 describes the value of understandability by stating that that a good thesaurus ‘enable[s] an expression formulated using one vocabulary to be converted to a corresponding expression in one or more other vocabularies.’
-
-Educational: addressing a human audience, a well-presented thesaurus promotes its adoption as a common conceptual framework by a broader community (e.g., across all Earth sciences). Clear and explanatory definitions, and linkages between words expressed in multiple structural ways, as well as highlighted discussions between communities would satisfy the curiosity of scientists at all career stages to gain knowledge, help communicate more efficiently and encourage productive across-community discussions.
-
-Updateable: a unified thesaurus with version control at the level of individual terms, opportunities for public comment and discussion, disambiguation links and options for adding new terms, will add significant additional value to the community by providing a persistent while current source of reference. Links for ‘high impact terms’ to framework documents that allow for far more refined definitions and check lists, will also help keep the thesaurus updated.
-
-These, once finalised and agreed upon, should be turned into formal rules guiding the development.  With increasing maturity of the project, they will have to be strictly enforced to reach the desired goal of empowering interoperability across the domain. A few examples of such possible rules are given in below table.
-
+Of central importance for increasing the interoperability within CEOS and across the entire geospatial domain, will be a more harmonised and structured terminology. Providers and users of EO data and services will largely benefit if the definition and interpretation of terms is no longer re-negotiated and amended each time projects are started, or new documents are drafted. A key finding of the terminology task force was that vocabularies should be developed as much as possible in an open and participatory way across the whole domain they are intended for.One of the main lessons learned by the CEOS terminology task force was that usability and acceptance of unified vocabularies will largely depend on consistent and comprehensive principles shared by all stakeholders and guiding their development. 
 
 | **ID** | **Thresaurus Recommendations** |
 | :---- | :---- |
