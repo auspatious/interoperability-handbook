@@ -13,10 +13,10 @@ Calibration is the process of quantitatively defining a system’s response to k
 
 | **ID** | **Recommendations** |
 | :---- | :---- |
-| **CALVAL\#1** | CEOS CAL/VAL portal can be used as a reference site for insuring interoperability for calibration and validation |
-| **CALVAL\#2** | CEOS/WGCV developed Data Quality Assurance Strategy should be followed for ensuring interoperability |
-| **CALVAL\#3** | CEOS endorsed Cal/Val sites should be used for satellite cross-comparison |
-| **CALVAL\#4** |  |
+| **CALVAL\#1** | [CEOS CAL/VAL portal](https://calvalportal.ceos.org/) can be used as a reference site for accessing agreed good practices and CAL/VAL protocols for  interoperability for Earth observation calibration and validation activities |
+| **CALVAL\#2** |The Quality Assurance Framework for Earth Observation [(QA4EO)](https://qa4eo.org/) developed by Group on Earth Observations (GEO) and endorsed by the Committee on Earth Observation Satellites (CEOS) should be followed to enable interoperability and quality assessment of earth observation data |
+| **CALVAL\#3** | CEOS endorsed [Cal/Val sites](https://calvalportal.ceos.org/web/guest/calvalsites) should be used for calibration and valiation of Earth Observation data |
+| **CALVAL\#4** | All products should have associated quality indicators, traceable to reference standards to allows users to access usability of the data for their applications|
 | **CALVAL\#5** |  |
 | **CALVAL\#6** |  |
 
