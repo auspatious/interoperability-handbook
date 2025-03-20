@@ -87,7 +87,7 @@ are aimed at facilitating both access to data as well as maintaining a replica o
 | **PUBLISH\#1** | Granules should be available immediately and not through an on-demand service                                                                                                                                                           |
 | **PUBLISH\#2** | Each data collection that is published as a publicly-accessible product should include a public granule-level notification including for when it is added, updated or deleted/archived. This should be able to be filtered by location. |
 | **PUBLISH\#3** | A collection should have a full listing of all available granules in a standard format, preferably cloud optimized. [STAC-geoparquet](https://stac-utils.github.io/stac-geoparquet/latest/) is used by some providers currently         |
-| **PUBLISH\#4** | Data licensing should be clear and adhere to national policies, with a strong preference for standard open licenses such as Creative Commons |    
+| **PUBLISH\#4** | Data licensing should be clear and adhere to national policies, with a strong preference for standard open licenses such as Creative Commons |
 
 ## Technologies
 
