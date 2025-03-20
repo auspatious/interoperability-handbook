@@ -19,6 +19,5 @@ Calibration is the process of quantitatively defining a system’s response to k
 | **CALVAL\#4** | All products should have associated quality indicators, traceable to reference standards to allows users to access usability of the data for their applications|
 | **CALVAL\#5** | Post launch the Level-1 products should be calibrated using CEOS Fiducial Reference Measurements (CEOS-FRM).  |
 
-
 ***
 [Previous](Interface.md) | [Table of contents](README.md) | [Next](Policy.md)
