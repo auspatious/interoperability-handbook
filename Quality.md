@@ -3,7 +3,7 @@
 [Previous](Interface.md) | [Table of contents](README.md) | [Next](Policy.md)
 ***
 
-Quality informs users of the trustworthiness of Earth Observation data and products and to provides a forum for the exchange of information about calibration and validation, including the coordination of cooperative activities.
+Quality informs users of the trustworthiness of Earth Observation data and products and provides a forum for the exchange of information about calibration and validation, including the coordination of cooperative activities.
 
 ## Calibration and Validation
 
