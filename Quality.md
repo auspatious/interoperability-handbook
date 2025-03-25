@@ -13,7 +13,7 @@ Calibration is the process of quantitatively defining a system’s response to k
 
 | **ID** | **Recommendations** |
 | :---- | :---- |
-| **CALVAL\#1** | [CEOS CAL/VAL portal]((https://calvalportal.ceos.org/) can be used as a reference site for insuring interoperability for calibration and validation |
+| **CALVAL\#1** | [CEOS CAL/VAL portal](https://calvalportal.ceos.org/) can be used as a reference site for insuring interoperability for calibration and validation |
 | **CALVAL\#2** | CEOS/WGCV developed Data Quality Assurance Strategy should be followed for ensuring interoperability |
 | **CALVAL\#3** | CEOS endorsed [Cal/Val sites](https://calvalportal.ceos.org/web/guest/calvalsites) and reference network should be used for satellite cross-comparison: https://calvalportal.ceos.org/calvalsites | 
 | **CALVAL\#4** | CEOS ARD Framework should be used as a starting point for development of Analysis Ready Data |
