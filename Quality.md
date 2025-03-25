@@ -22,6 +22,7 @@ Calibration is the process of quantitatively defining a system’s response to k
 | **CALVAL\#7** | The Joint Agency Commercial Imagery Evaluation (JACIE) [Best Practices document](https://www.usgs.gov/publications/joint-agency-commercial-imagery-evaluation-jacie-best-practices-remote-sensing-system) can be used as a guideline for standard calibration and validation activites to be performed|
 | **CALVAL\#8** | The [ESA Earth Data Assessment Project (EDAP)](https://earth.esa.int/eogateway/activities/edap) process provides multiple reporting metrics related to quality |
 | **CALVAL\#9** | All products should have associated quality indicators, traceable to reference standards to allows users to access usability of the data for their applications |
-| **CALVAL\#10** | Post launch the Level-1 products should be calibrated using CEOS Fiducial Reference Measurements |
+| **CALVAL\#10** | Post launch the Level-1 products should be calibrated using CEOS Fiducial Reference Measurements (CEOS-FRM) |
+
 ***
 [Previous](Interface.md) | [Table of contents](README.md) | [Next](Policy.md)
