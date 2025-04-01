@@ -28,9 +28,9 @@ services through the exploitation of standard protocols and the harmonizing of s
 
 | **ID** | **Recommendations** |
 | :---- | :---- |
-| **DACC\#1** |  Granule data stored in the cloud should be accessible directly via a well-known web-based API over HTTPS, for example, S3 (Simple Storage Service). |
-| **DACC\#2** |  Data access should support file-level access and subfile or pixel-based access. Data download interfaces over HTTPS should support [`Range Requests`](https://en.wikipedia.org/wiki/Byte_serving) to allow clients to request a portion of a file.  A typical use case is access to a spatial subset of a [Cloud-Optimized GeoTIFF (COG)](https://en.wikipedia.org/wiki/GeoTIFF) file.|
-| **DACC\#3** |  In case a granule consists of many individual assets (files), it shall be possible to access each asset individually or access all subcomponents of a granule with a single request. |
+| **DACC\#1** |  Granule data stored in the cloud should be accessible directly via a web-based protocol, for example the S3 (Simple Storage Service) and HTTP(S). |
+| **DACC\#2** |  Data access should support file-level access and subfile or pixel-based access. Data download interfaces over HTTPS should support [`Range Requests`](https://en.wikipedia.org/wiki/Byte_serving) to allow clients to request a portion of a file.  Typical use case: access to a portion of a [Cloud-Optimized GeoTIFF (COG)](https://en.wikipedia.org/wiki/GeoTIFF) file.|
+| **DACC\#3** |  In case a granule consists of many individual assets (files), it shall be possible to access each asset individually and it is recommended to provide access to all subcomponents of a granule with a single request. |
 
 ## Authentication and Authorization
 
