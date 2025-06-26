@@ -20,7 +20,7 @@ Calibration is the process of quantitatively defining a system’s response to k
 | **CALVAL\#5** |  Community endorsed Cal/Val sites and reference network should be used for satellite cross-comparison, such as CEOS [Cal/Val sites](https://calvalportal.ceos.org/web/guest/calvalsites), [RadCalNet](https://www.radcalnet.org) and [SARCalNet](https://www.sarcalnet.org/) . |
 | **CALVAL\#6** | The Quality Assurance Framework for Earth Observation [QA4EO](https://qa4eo.org/) developed by Group on Earth Observations (GEO) and endorsed by CEOS should be followed to enable interoperability and quality assessment of earth observation data. |
 | **CALVAL\#7** | The [ESA/NASA/USGS Earth Data Assessment Project (EDAP)](https://earth.esa.int/eogateway/activities/edap) should be used for reporting metrics related to quality. |
-| **CALVAL\#8** | The Joint Agency Commercial Imagery Evaluation (JACIE) [Best Practices document](https://www.usgs.gov/publications/joint-agency-commercial-imagery-evaluation-jacie-best-practices-remote-sensing-system) should be used as a guideline for performing standard calibration and validation activites. |
+| **CALVAL\#8** | The Joint Agency Commercial Imagery Evaluation (JACIE) [Best Practices document](https://www.usgs.gov/publications/joint-agency-commercial-imagery-evaluation-jacie-best-practices-remote-sensing-system) should be used as a guideline for performing standard calibration and validation activities. |
 | **CALVAL\#9** |[CEOS CAL/VAL portal](https://calvalportal.ceos.org/) should be used as a reference site for accessing agreed good practices and CAL/VAL protocols for interoperability for Earth observation calibration and validation activities. |
 
 ***
