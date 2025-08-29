@@ -26,7 +26,7 @@ Of central importance for increasing the interoperability within CEOS and across
 | **THES\#3** | The terms used in the thesaurus should have clear and mappable relationships with other terms (parent, sibling, child). Overlaps between terms that are supposed to delineate more generic concepts (siblings) should be avoided or minimized. |
 | **THES\#4** | Definitions have to be kept unambiguous and short, and written in a form such that they can replace the term in a sentence. |
 | **THES\#5** | Explanations should be given in a separate ‘Notes’ sections, and Examples in a separate 'Examples' section. Both complement the definition, and should not be included as part of the main definition. |
-| **THES\#6** | Every definition should have an accompanying 'Sources' section, where all source documents are listed, wherever possible as weblinks. |
+| **THES\#6** | Every definition should have an accompanying 'Sources' section, where all source documents are listed or link to register maintained by source is provided, wherever possible as weblinks. |
 | **THES\#7** | Thesaurus terms should be version controlled at the individual term level.|
 | **THES\#8** | Where a term is deemed ‘controversial’ then contradictory definitions can be provided, but only with clear links to alternative definitions and explanations as to what context a term is used in.|
 
