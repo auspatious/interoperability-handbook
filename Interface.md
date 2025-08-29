@@ -19,10 +19,9 @@ services through the exploitation of standard protocols and the harmonizing of s
 | **DISC\#5** | Discovery interfaces should be accessible and return responses without requiring authentication. |
 | **DISC\#6** | Collection and granule metadata obtained via the discovery interfaces should advertise the existence of the corresponding authentication endpoint for human and machine access to the data (if required). |
 | **DISC\#7** | Resource metadata including keywords should link each keyword to its URI and to the appropriate thesaurus (i.e., controlled vocabularies). |
-| **DISC\#8** | Keywords from controlled vocabularies that allow lookup of keyword information via [Linked Data principles](https://en.wikipedia.org/wiki/Linked_data), e.g., HTTP URI dereferencing or SPARQL interfaces are preferred. The use of GCMD controlled keywords is encouraged. |
-| **DISC\#9** | Resource metadata should contain the persistent identifier (e.g., DOI) of the corresponding resource. |
-| **DISC\#10** | Collection metadata should refer to the level of maturity with respect to the [WGISS Data Management and Stewardship Maturity Matrix](https://ceos.org/document_management/Working_Groups/WGISS/Interest_Groups/Data_Stewardship/White_Papers/WGISS%20Data%20Management%20and%20Stewardship%20Maturity%20Matrix.pdf). |
-| **DISC\#11** | For facilitating discovery and access, data shall be organised in collections according to the principles outlined in the `WGISS Data Collections Management Practices White Paper`. |
+| **DISC\#8** | Resource metadata should contain the persistent identifier (e.g., DOI) of the corresponding resource. |
+| **DISC\#9** | Collection metadata should refer to the level of maturity with respect to the [WGISS Data Management and Stewardship Maturity Matrix](https://ceos.org/document_management/Working_Groups/WGISS/Interest_Groups/Data_Stewardship/White_Papers/WGISS%20Data%20Management%20and%20Stewardship%20Maturity%20Matrix.pdf). |
+| **DISC\#10** | For facilitating discovery and access, data shall be organised in collections according to the principles outlined in the `WGISS Data Collections Management Practices White Paper`. |
 
 ## Data Access
 
