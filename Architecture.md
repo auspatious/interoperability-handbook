@@ -43,7 +43,7 @@ This section covers the core recommendations for collection management functions
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **DATA#1** | [CEOS-ARD Framework](https://ceos.org/ard) should be used as a starting point for development of Analysis Ready Data. |
 | **DATA#2** | CEOS-ARD Product Family Specifications (PFS) should be used for development and assessment of ARD products, including both self-assessments and peer review. |
-| **DATA#4** | The ISO 19115 series of standards (or similar) should be used to produce geospatial metadata. |
+| **DATA#4** | The [ISO 19115](https://www.iso.org/standard/53798.html) series of standards (or similar) should be used to produce geospatial metadata. |
 | **DATA#5** | A Collection of data should have all granules packaged consistently and produced with consistent quality. |
 | **DATA#6** | Collection-specific metadata formats may be used, but packaging must also include STAC documents at the Collection and Granule/Item level. Refer to the [CEOS EO collection and granule discovery best practices with STAC](https://github.com/ceos-org/stac-collection-and-granule-discovery-best-practices). |
 | **DATA#7** | Checksums for all files in a packaged granule should be available, to ensure integrity. |
@@ -60,7 +60,7 @@ Publishing recommendations involve the final stage in making data accessible to 
 | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **PUBLISH\#1** | Each data collection that is published as a publicly-accessible product should include a public granule-level notification including for when a granule is added, updated and deleted/archived. This supports management and maintenance of replicas collections. |
 | **PUBLISH\#2** | A collection should have a full listing of all available granules in a standard format, preferably cloud optimized. For example, [STAC-geoparquet](https://stac-utils.github.io/stac-geoparquet/latest/) is used by some providers. |
-| **PUBLISH\#3** |  Granule data stored in the cloud should be accessible in cloud-optimized formats, e.g., [Zarr](https://en.wikipedia.org/wiki/Zarr_(data_format)) or [Cloud-Optimized GeoTIFF (COG)](https://en.wikipedia.org/wiki/GeoTIFF).|
+| **PUBLISH\#3** | Granule data stored in the cloud should be accessible in cloud-optimized formats, e.g., [Zarr](https://zarr.dev/) or [Cloud-Optimized GeoTIFF (COG)](https://cogeo.org/).|
 | **PUBLISH\#4** | Granules should not be zipped when stored in the cloud, so that cloud optimized data formats can be leveraged. |
 | **PUBLISH\#5** | Where possible, cloud providers' standard interfaces should be used in preference to self-developed solutions, enabling interoperability of tools that work with that cloud provider. |
 
