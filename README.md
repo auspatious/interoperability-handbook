@@ -15,6 +15,7 @@ Enhancing Interoperability of data and services between different Earth Observat
 - [**5. Interface**](Interface.md)
 - [**6. Quality**](Quality.md)
 - [**7. Policy**](Policy.md)
+- [**8. Conclusion and Future Scope**](Conclusion.md)
 
 ## License
 
