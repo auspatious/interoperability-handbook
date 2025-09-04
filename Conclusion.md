@@ -1,4 +1,4 @@
-# Conclusion 
+# Conclusions 
 
 [Previous](Policy.md) | [Table of contents](README.md) | [Next](README.md)
 ***
