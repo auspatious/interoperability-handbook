@@ -26,7 +26,7 @@ The CEOS Interoperability Handbook v2.0 is both a continuation and a transformat
 
 **Interoperability Maturity Matrix** will be developed using the recommendations provided in this handbook. The Maturity Matrix will help users to measure the maturity of Interoperability of data and services in their organizations and will also allow them to monitor the interoperability implementation with time.
 
-**Interoperability Demonstrators** will also be developed using the Interoperability Handbook. These demonstrators will help the end users to understand the barriers in implementing the interoperability and will act as use-case for Interoperability.
+**Interoperability Demonstrators** will also be developed using the Interoperability Handbook. These demonstrators will help the end users to understand the barriers in implementing the interoperability and will act as use-cases for Interoperability.
 
 ***
 [Previous](Policy.md) | [Table of contents](README.md) | [Next](README.md)
